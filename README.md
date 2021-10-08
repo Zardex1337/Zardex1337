@@ -1,8 +1,6 @@
 <img width="100%" height = "250px" src="https://cdn.discordapp.com/attachments/895692886140665876/895907797529669642/res.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zardex1337.zardex1337)
 
