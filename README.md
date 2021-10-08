@@ -1,4 +1,5 @@
-```pyfrom GitHub import ReadMe
+```py
+from GitHub import ReadMe
 
 class About(ReadMe):
     "/Zardex1337/zardex1337/README.md"
