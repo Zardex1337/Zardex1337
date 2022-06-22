@@ -7,7 +7,7 @@ class About(ReadMe):
     def __init__(self):
         self.username = "Zardex"
         self.contacts = {
-            "Discord": "Zardex?#1337",
+            "Discord": "Zardex#1337",
             "Bio": "solo.to/Zardex"
         }
         self.alises = [
